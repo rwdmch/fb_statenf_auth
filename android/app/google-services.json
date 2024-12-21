@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904291660676",
+    "project_id": "fb-authhh-provider",
+    "storage_bucket": "fb-authhh-provider.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904291660676:android:72cefd8022f8ab3f3a63d1",
+        "android_client_info": {
+          "package_name": "com.rwdllyad.fb_auth_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuMavVcyKvrPQbstF5qdyNMiLE6gOwAWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
